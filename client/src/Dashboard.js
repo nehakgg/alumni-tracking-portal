@@ -11,7 +11,7 @@ const Dashboard = () => {
   return (
     <div>
       <h2>Welcome To The Dashboard, {username}!</h2>
-      <p>You are now logged in!</p>
+      <p>You are now logged... in!</p>
       <Link to="/Search"> 
         <pr>Click here not to Search Alumuni</pr>
         </Link>
